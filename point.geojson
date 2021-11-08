@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.221342, -4.285855]
+      },
+      "properties": {
+        "fid": "0",
+        "name": "Rumah Sakit Mutiara Bunda",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.221584, -4.546956]
+      },
+      "properties": {
+        "fid": "1",
+        "name": "Rumah Sakit Umum Menggala",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.0866, -4.631554]
+      },
+      "properties": {
+        "fid": "2",
+        "name": "Rumah Sakit Umum Asy Syifa Medika",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.211183, -4.906518]
+      },
+      "properties": {
+        "fid": "3",
+        "name": "Rumah Sakit Yukum Jaya Medical Center",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.213496, -4.923861]
+      },
+      "properties": {
+        "fid": "4",
+        "name": "Rumah Sakit Islam Asy Syifaa",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.214141, -4.941692]
+      },
+      "properties": {
+        "fid": "5",
+        "name": "Rumah Sakit Mitra Mulia Husada",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.216051, -4.958494]
+      },
+      "properties": {
+        "fid": "6",
+        "name": "Rumah Sakit Harapan Bunda",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.596329, -5.727332]
+      },
+      "properties": {
+        "fid": "7",
+        "name": "Rumah Sakit Umum Daerah Dr. H. Bob Bazar. SKm",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.256301, -5.44763]
+      },
+      "properties": {
+        "fid": "8",
+        "name": "Rumah Sakit Ibu dan Anak Restu Bunda",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.267401, -5.442583]
+      },
+      "properties": {
+        "fid": "9",
+        "name": "Rumah Sakit Ibu dan Anak Santa Anna Bandarlampung",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.253435, -5.436645]
+      },
+      "properties": {
+        "fid": "10",
+        "name": "Rumah Sakit Umum Daerah Dr A Dadi Tjokrodipo Bandarlampung",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.271109, -5.429899]
+      },
+      "properties": {
+        "fid": "11",
+        "name": "Rumah Sakit Assyifa Bandarlampung",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.251216, -5.424965]
+      },
+      "properties": {
+        "fid": "12",
+        "name": "Rumah Sakit Bumiwaras",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.262537, -5.422968]
+      },
+      "properties": {
+        "fid": "13",
+        "name": "Rumah Sakit Ibu dan Anak Mutiara Putri",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.267501, -5.413331]
+      },
+      "properties": {
+        "fid": "14",
+        "name": "Rumah Sakit Graha Husada",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.258869, -5.402729]
+      },
+      "properties": {
+        "fid": "15",
+        "name": "Rumah Sakit Umum Daerah Abdul Moeloek Lampung",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.258774, -5.401634]
+      },
+      "properties": {
+        "fid": "16",
+        "name": "Rumah Sakit Tingkat IV Bandarlampung",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.266137, -5.39406]
+      },
+      "properties": {
+        "fid": "17",
+        "name": "Rumah Sakit Ibu dan Anak Betik Hati",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.262089, -5.392051]
+      },
+      "properties": {
+        "fid": "18",
+        "name": "Rumah Sakit Advent Bandarlampung",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.276639, -5.391164]
+      },
+      "properties": {
+        "fid": "19",
+        "name": "Rumah Sakit Urip Sumoharjo",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.287334, -5.386361]
+      },
+      "properties": {
+        "fid": "20",
+        "name": "Rumah Sakit Imanuel Bandarlampung",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.22419, -5.374232]
+      },
+      "properties": {
+        "fid": "21",
+        "name": "Rumah Sakit Bhayangkari Polda Lampung",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.22419, -5.374232]
+      },
+      "properties": {
+        "fid": "21",
+        "name": "Rumah Sakit Bhayangkari Polda Lampung",
+        "remark": "Rumah Sakit Umum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.298725, -5.349817]
+      },
+      "properties": {
+        "fid": "22",
+        "name": "Rumah Sakit Airan Raya",
+        "remark": "Rumah Sakit Umum"
+      }
+    }
+  ]
+}
